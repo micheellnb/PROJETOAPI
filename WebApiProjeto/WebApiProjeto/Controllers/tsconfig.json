@@ -1,0 +1,24 @@
+{
+  /*
+        [{ "nome" : "Huguinho", "Pedro" },
+        { "nome" : "Zezinho", "Juca"  },
+        { "nome" : "Luizinho", "Ana" }]
+    */
+
+  
+    [{ "nome": "Huguinho" },
+    { "nome": "Zezinho" },
+    { "nome": "Luizinho" },
+    { "nome": "Pedro" },
+    { "nome": "Juca" },
+    { "nome": "Ana" }]
+
+
+
+    }
+
+  
+
+
+
+
